@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header/>
-      
+      <h1 className="title">Bienvenidos a nintendo e-shop</h1>
     </>
   );
 }
